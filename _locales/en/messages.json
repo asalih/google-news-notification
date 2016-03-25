@@ -1,0 +1,14 @@
+{
+    "appName": {
+        "message": "Google News Notification",
+        "description": "Google News Notification"
+    },
+    "appDescription": {
+        "message": "Reads Google News and feeds you!",
+        "description": "Reads Google News and feeds you!"
+    },
+    "appShortName": { 
+        "message": "notifynews",
+        "description": "notifynews"
+    }
+}
